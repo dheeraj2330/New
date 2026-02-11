@@ -87,4 +87,4 @@ newOrder.displayOrder();
 function calculateTotal(burger,fries,soda){
     return burger+fries+soda;
 }
-
+add
